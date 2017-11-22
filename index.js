@@ -7,7 +7,7 @@ class ModuleDemo extends Component {
     return (
       <div className='FranklyModulesDemo'>
 	    test2:<br/>
-	    <ModuleDemo text="test"></ModuleDemo>
+	    <ModuleDemo text="test child"></ModuleDemo>
       </div>
     );
 	  
