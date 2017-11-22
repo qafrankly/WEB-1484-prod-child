@@ -5,9 +5,9 @@ class ModuleDemo extends Component {
   render(){
 	  
     return (
-      <div className='FranklyModulesDemo'>
-	    test2:<br/>
-	    <ModuleDemo text="test child"></ModuleDemo>
+       <div>
+        <h2>test child here</h2>
+	<h2>testing the second repo</h2>
       </div>
     );
 	  
