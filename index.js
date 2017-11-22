@@ -1,11 +1,11 @@
 import React, { Component, PropTypes } from 'react';
 
-class ModuleCrossDemo extends Component {
+class ModuleDemo extends Component {
 
   render(){
 	  
     return (
-      <div className='FranklyModulesCrossDemo'>
+      <div className='FranklyModulesDemo'>
 	    test2:<br/>
 	    <ModuleDemo text="test"></ModuleDemo>
       </div>
@@ -14,4 +14,4 @@ class ModuleCrossDemo extends Component {
   }
 }
 
-export default ModuleCrossDemo;
+export default ModuleDemo;
